@@ -1,0 +1,80 @@
+
+html {
+    background-color: #EEE6E0;
+}
+
+body {
+    text-align: center;
+}
+
+.top-content {
+    padding-top: 10vh;
+    padding-bottom: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
+    line-height: 2em;
+}
+
+h1 {
+    font-family: 'Patua One';
+    font-size: 50px;
+    color: #5F5148;
+}
+
+h2, p {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+p {
+    font-size: 22px;
+}
+
+button p {
+    font-size: 18px;
+}
+
+
+/*********** QUESTIONS ***********/
+
+.question {
+    display: none;
+    padding-bottom: 8vh;
+}
+
+.div-show {
+    display: block;
+}
+
+.button {
+    padding: 5px 30px;
+    margin: 10px;
+}
+
+
+/*********** ANSWERS ***********/
+
+.answer {
+    display: none;
+}
+
+.answer-hed {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: -5px;
+    color: #5F5148;
+}
+
+.description {
+    font-size: 17px;
+    margin-left: 37.5%;
+    margin-right: 37.5%;
+    margin-bottom: 50px;
+}
+
+
+/*********** IMAGES ***********/
+
+img {
+    width: 25%;
+    border: solid 2px #5F5148;
+}
